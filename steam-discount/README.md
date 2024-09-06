@@ -2,6 +2,8 @@
 
 <u>Note</u>: If you are on iOS 14 or lower, you must allow untrusted shortcuts in order to import this shortcut. To find out how, see [https://support.apple.com/guide/shortcuts/enable-shared-shortcuts-apdfeb05586f/4.0/ios/14.0](https://support.apple.com/guide/shortcuts/enable-shared-shortcuts-apdfeb05586f/4.0/ios/14.0). 
 
+Install manually by saving `Steam Discount.shortcut`. Then, import it by opening the file. Alternatively, you may install via the [iCloud link](https://www.icloud.com/shortcuts/4950398c8a4f4a618aa0f255c0a2a3ff). 
+
 The purpose of this shortcut is to notify you if certain Steam games of your choosing are currently on sale. For each discounted game, it will display the discount percentage along with the price before and after the discount. Please note that if none of the specified games are on sale, the shortcut will produce no output. Also, the shortcut will continue to notify you if a game is on sale even if it already has unless you manually remove it from the list. This requires you to modify the `AppList` variable in the shorcut as specified below. In the future, I may utilize persistent data storage to eliminate the need to manually modify the shortcut and solve the problem of being re-notified about the same exact discount. 
 
 Before use, please configure the shortcut. The setup screen should pop up after importing, but if it does not, it can be found in `Details` > `Setup`. You may also manually configure the shortcut by modifying the following variables: `AppList`, `CC`, and `Currency`.  

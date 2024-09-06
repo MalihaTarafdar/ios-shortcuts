@@ -9,7 +9,7 @@ Alternatively, shortcuts may be installed via the iCloud links provided below.
 
 ## List of Shorcuts
 - [Steam Discount](https://www.icloud.com/shortcuts/4950398c8a4f4a618aa0f255c0a2a3ff)
-- [Copy Steam AppID From URL](https://www.icloud.com/shortcuts/7a6940408cfd4a1bb1ed734cfcf16328)
+- [Copy Steam AppID From URL](https://www.icloud.com/shortcuts/f0453329059547d0b531ca0d2cc0709d)
 
 
 ## Support Me
