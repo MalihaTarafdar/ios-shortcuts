@@ -7,8 +7,13 @@ A shortcut may be installed manually by saving its `.shortcut` file. Then, you m
 
 Alternatively, shortcuts may be installed via the iCloud links provided below. 
 
-### List of Shorcuts
+## List of Shorcuts
 - [Steam Discount](https://www.icloud.com/shortcuts/4950398c8a4f4a618aa0f255c0a2a3ff)
 - [Copy Steam AppID From URL](https://www.icloud.com/shortcuts/7a6940408cfd4a1bb1ed734cfcf16328)
 
-If you found any of my shortcuts useful, please consider supporting me at [coindrop.to/malihatarafdar](https://coindrop.to/malihatarafdar)!
+
+## Support Me
+If you found any of my shortcuts useful, please consider supporting me at [https://coindrop.to/malihatarafdar](https://coindrop.to/malihatarafdar)!
+
+## License
+This repository is licensed under the [MIT License](LICENSE). 
