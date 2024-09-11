@@ -14,7 +14,9 @@ Information about the stages of alcohol intoxication is from the following study
 
 ## Widmark Equation
 The Widmark equation is as follows. 
-$$N = \frac{Wr(C_t + \beta t)}{dz}$$
+```math
+N = \frac{Wr(C_t + \beta t)}{dz}
+```
 where
 - $N$ is the number of standard drinks consumed
 - $W$ is body weight
