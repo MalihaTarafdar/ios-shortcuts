@@ -1,6 +1,6 @@
 # iOS Shortcuts
 
-This is a collection of iOS shortcuts I have made. Please report any issues or feedback [here](https://github.com/MalihaTarafdar/ios-shortcuts/issues). 
+This is a collection of iOS shortcuts I have made. Please report any issues or feedback [here](https://github.com/MalihaTarafdar/ios-shortcuts/issues). Many more shortcuts to be uploaded soon. 
 
 ## Installation
 Shortcuts may be installed via the iCloud links provided [below](#shortcuts). 
